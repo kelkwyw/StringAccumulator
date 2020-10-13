@@ -21,7 +21,7 @@
     </build>
     <properties>
         <guava.version>23.0</guava.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <apache.comon.version>3.9</apache.comon.version>
     </properties>
     <dependencies>
